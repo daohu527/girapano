@@ -3,8 +3,11 @@ this project will show 360 photos
 
 ## Refenrence
 
-this one is enough  s
+this one is enough
 https://ourcodeworld.com/articles/read/843/top-7-best-360-degrees-equirectangular-image-viewer-javascript-plugins  
+
+原理  
+https://www.villainhr.com/page/2018/01/03/%E7%8E%B0%E5%9C%A8%E5%81%9A%20Web%20%E5%85%A8%E6%99%AF%E5%90%88%E9%80%82%E5%90%97%EF%BC%9F  
 
 https://havecamerawilltravel.com/photographer/how-to-share-360-degree-photos/  
 https://kuula.co/blog/embed-editor-on-kuula/#more-939  
@@ -44,9 +47,6 @@ https://translate.googleusercontent.com/translate_c?depth=1&hl=zh-CN&prev=search
 
 介绍的非常详细
 https://translate.google.com/translate?hl=zh-CN&sl=en&u=https://www.quora.com/How-do-you-take-a-360%25C2%25B0-panorama-photo&prev=search   
-
-Mijia Mi
-
 
 
 
