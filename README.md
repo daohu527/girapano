@@ -8,6 +8,8 @@ https://ourcodeworld.com/articles/read/843/top-7-best-360-degrees-equirectangula
 
 原理  
 https://www.villainhr.com/page/2018/01/03/%E7%8E%B0%E5%9C%A8%E5%81%9A%20Web%20%E5%85%A8%E6%99%AF%E5%90%88%E9%80%82%E5%90%97%EF%BC%9F  
+https://newbieweb.lione.me/2017/10/15/%E8%81%8A%E4%B8%80%E8%81%8A%E5%85%A8%E6%99%AF%E5%9B%BE/  
+
 
 https://havecamerawilltravel.com/photographer/how-to-share-360-degree-photos/  
 https://kuula.co/blog/embed-editor-on-kuula/#more-939  
